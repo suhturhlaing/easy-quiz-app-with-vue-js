@@ -1,7 +1,7 @@
 # easy-quiz-app-with-vue-js
 A quiz app using Vue JS(vue-3)
 
-
+<p dir="auto">or generate with the following command</p>
 
 
 # Project Clone
