@@ -2,6 +2,10 @@
 A quiz app using Vue JS(vue-3)
 
 
+
+#project clone
+clone the repository
+
 # install dependencies
 npm install
 
