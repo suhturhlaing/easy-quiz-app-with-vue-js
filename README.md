@@ -3,7 +3,8 @@ A quiz app using Vue JS(vue-3)
 
 
 
-#project clone
+
+# Project Clone
 clone the repository
 
 # install dependencies
