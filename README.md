@@ -7,7 +7,7 @@ A quiz app using Vue JS(vue-3)
 
 
 <div align="center">
-  <img src="assets/" alt="alt text" title="Title" />
+  <img src="assets/readme.jpeg" alt="text" title="Title" />
 </div>
 
 
