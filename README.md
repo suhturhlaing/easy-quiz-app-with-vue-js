@@ -3,7 +3,12 @@ A quiz app using Vue JS(vue-3)
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand:
+
+
+> A Vue.js project
+
+
 
 
 <div align="center">
@@ -11,7 +16,8 @@ A quiz app using Vue JS(vue-3)
 </div>
 
 
-Markdown
+
+``` bash
 # Project Clone
 clone the repository
 
@@ -26,3 +32,6 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
