@@ -1,9 +1,17 @@
 # easy-quiz-app-with-vue-js
 A quiz app using Vue JS(vue-3)
 
+---
+
+### :writing_hand: Blog Posts :
 
 
+<div align="center">
+  <img src="assets/" alt="alt text" title="Title" />
+</div>
 
+
+Markdown
 # Project Clone
 clone the repository
 
